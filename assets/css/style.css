@@ -90,16 +90,13 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+ 
 
-
-
- h3 {
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-
-
+ 
 .benefits img {
     display: center;
     margin: 10px auto;
@@ -146,17 +143,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
